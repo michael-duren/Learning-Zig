@@ -106,7 +106,7 @@ By the end of this book, you'll be ready to build a complete application that in
 
 _Alex Rios_ Alex Rios is an established Brazilian software engineer with a 15-year track record of success in large-scale solution development. He specializes in Go and creates high-throughput systems that address diverse needs across fintech, telecom, and gaming industries. As a Staff Engineer at Stone Co., Alex applies his expertise using unconventional system designs, ensuring top-notch delivery. Also, he uses his expertise to evaluate books and publications as a technical reviewer. He is an enthusiastic community member, actively participating in its growth and development as Curitiba's Go meetup organizer. His dedication is evident in his regular presence as a speaker at major national tech events like GopherCon Brazil.
 
-
+You can find more about Alex on his webstite: https://alexrios.me.
 
 </details>
 <details> 
